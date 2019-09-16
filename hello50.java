@@ -4,5 +4,6 @@ Class Math
     {
       Sysytem.out.println("Hello World");
       Sysytem.out.println("wELCOME TO THE GITHUB");
+      Sysytem.out.println("wELCOME TO THE REPOSITORY");
     }
 }    
